@@ -1,0 +1,2287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<revistas>
+	<revista>
+		<id>1</id>
+		<titulo>Demolidor</titulo>
+		<subTitulo>A Queda de Murdock</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>2</id>
+		<titulo>O Espetacular Homem-Aranha</titulo>
+		<subTitulo>A Última Caçada de Kraven</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>3</id>
+		<titulo>Marvels</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>4</id>
+		<titulo>O Espetacular Homem-Aranha</titulo>
+		<subTitulo>De Volta ao Lar</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>21</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.9</valor>
+	</revista>
+	<revista>
+		<id>5</id>
+		<titulo>Novos X-Men</titulo>
+		<subTitulo>E de Extinção</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>23</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>6</id>
+		<titulo>Os Supremos</titulo>
+		<subTitulo>Super-Humano</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>28</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>7</id>
+		<titulo>Os Supremos</titulo>
+		<subTitulo>Segurança Nacional</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>29</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>8</id>
+		<titulo>Guerra Secreta</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>33</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>9</id>
+		<titulo>Vingadores</titulo>
+		<subTitulo>A Queda</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>34</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>10</id>
+		<titulo>Surpreendentes X-Men</titulo>
+		<subTitulo>Superdotados</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>36</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>19.9</valor>
+	</revista>
+	<revista>
+		<id>11</id>
+		<titulo>Motoqueiro Fantasma</titulo>
+		<subTitulo>Estrada para a Danação</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>39</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>12</id>
+		<titulo>Capitão América</titulo>
+		<subTitulo>Tempo Esgotado</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>44</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>13</id>
+		<titulo>Capitão América</titulo>
+		<subTitulo>O Soldado Invernal</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>45</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>14</id>
+		<titulo>Thor</titulo>
+		<subTitulo>O Renascer dos Deuses</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>52</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>15</id>
+		<titulo>Capitão América</titulo>
+		<subTitulo>A Escolha</subTitulo>
+		<arco>A Coleção Oficial de Graphic Novels</arco>
+		<edicao>55</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>16</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Terra Um</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>17</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Terra Um</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>22.9</valor>
+	</revista>
+	<revista>
+		<id>18</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Arquivo de Casos Inexplicáveis</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>19</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A Piada Mortal</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>19.9</valor>
+	</revista>
+	<revista>
+		<id>20</id>
+		<titulo>Magneto</titulo>
+		<subTitulo>Atos de Terror</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>17.9</valor>
+	</revista>
+	<revista>
+		<id>21</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Hal Jordan: Procurado</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>23.9</valor>
+	</revista>
+	<revista>
+		<id>22</id>
+		<titulo>Caveira Vermelha</titulo>
+		<subTitulo>Encardenado</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>23</id>
+		<titulo>Watchmen</titulo>
+		<subTitulo>Edição Definitiva</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>88.0</valor>
+	</revista>
+	<revista>
+		<id>24</id>
+		<titulo>Reino do Amanhã</titulo>
+		<subTitulo>Edição Definitiva</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>89.0</valor>
+	</revista>
+	<revista>
+		<id>25</id>
+		<titulo>Justiça</titulo>
+		<subTitulo>Edição Definitiva</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>110.0</valor>
+	</revista>
+	<revista>
+		<id>26</id>
+		<titulo>Vingadores</titulo>
+		<subTitulo>Guerra sem Fim</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>24.9</valor>
+	</revista>
+	<revista>
+		<id>27</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>28</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>29</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>3</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>30</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>4</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>31</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>5</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>32</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>6</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>33</id>
+		<titulo>O Homem-Aranha</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Coleção Histórica Marvel</arco>
+		<edicao>7</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>34</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Os primeiros dias em Metrópolis</subTitulo>
+		<arco></arco>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>35</id>
+		<titulo>Superman</titulo>
+		<subTitulo>O Maior Herói de Todos os Tempos!</subTitulo>
+		<arco></arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.6</valor>
+	</revista>
+	<revista>
+		<id>36</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Homem de Aço Capturado!</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>37</id>
+		<titulo>Superman</titulo>
+		<subTitulo>A Verdade sobre Krypton</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>38</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Contra os Homens de Aço</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>39</id>
+		<titulo>Superman</titulo>
+		<subTitulo>No Principío... Novamente!</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>40</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Legião do Super-Heróis ao Resgate!</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>41</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Um novo vilão em Metropólis</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>42</id>
+		<titulo>Superman</titulo>
+		<subTitulo>A Batalha contra Brainiac!</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>43</id>
+		<titulo>Superman</titulo>
+		<subTitulo>No céu, no mar, na terra...</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>44</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Próximo alvo... Clark Kent!</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>45</id>
+		<titulo>Superman</titulo>
+		<subTitulo>A nova identidade secreta</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>46</id>
+		<titulo>Superman</titulo>
+		<subTitulo>O retorno do Superman esquecido</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>47</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Um prelúdio para Inferno na Terra</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>48</id>
+		<titulo>Superman</titulo>
+		<subTitulo>A hora do julgamento</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>49</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Poderá o Homem de Aço salvar o Superboy?</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>50</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Lex Luthor - Um Aliado?!</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>51</id>
+		<titulo>Superman</titulo>
+		<subTitulo>A evolução do mito</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>52</id>
+		<titulo>Superman</titulo>
+		<subTitulo>O último desafio</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>53</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Lado a lado com a Liga da Justiça</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>54</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Surge o Homem de Kryptonita</subTitulo>
+		<arco>Inferno na Terra</arco>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>55</id>
+		<titulo>Superman</titulo>
+		<subTitulo>Um plano para matar o Homem de Aço!</subTitulo>
+		<edicao>21</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>56</id>
+		<titulo>Tropa dos Lanternas Verdes</titulo>
+		<subTitulo>Ascensão do Terceiro Exército Primeiro Round</subTitulo>
+		<arco>Ascensão do Terceiro Exército</arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>57</id>
+		<titulo>Tropa dos Lanternas Verdes</titulo>
+		<subTitulo>Um novo Lanterna Um novo enigma</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>58</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Simon Baz: O Novo Lanterna Verde!</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>59</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Um novo Gladiador Esmeralda</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>60</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Morte a Tropa!</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>61</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>A Tropa Sinestro diante de seu... maior inimigo!
+		</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>62</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>O fim do medo</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>63</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Dois contra todos</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>64</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Aliança Fragmentada</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>65</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Assassino no Espaço Sideral</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>66</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Sem poderes e em fuga!</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>67</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Caçado pelos Lanternas Alfas</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>68</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>A compaixão mata!</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>69</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>De volta ao lar: Mão Negra</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>70</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>A escuridão chega a Terra!</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>71</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Encurralados pelo Terceiro Exército</subTitulo>
+		<arco>Ascensão do Terceiro Exército</arco>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>72</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Contra o poder da avareza</subTitulo>
+		<arco>Ascensão do Terceiro Exército</arco>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>73</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Resistir é inútil</subTitulo>
+		<arco>Ascensão do Terceiro Exército</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>74</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Depois da ascensão do terceiro exército... tem início A Ira
+			do Primeiro Lanterna
+		</subTitulo>
+		<arco>A Ira do Primeiro Lanterna</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>75</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Dilacerado!</subTitulo>
+		<arco>A Ira do Primeiro Lanterna</arco>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>76</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>Na Terra dos Mortos!</subTitulo>
+		<arco>A Ira do Primeiro Lanterna</arco>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>77</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>A Queda da Tropa? ou a Ascensão de Mogo?!</subTitulo>
+		<arco>A Ira do Primeiro Lanterna</arco>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>78</id>
+		<titulo>Lanterna Verde</titulo>
+		<subTitulo>O fim de uma era!</subTitulo>
+		<arco>A Ira do Primeiro Lanterna</arco>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.8</valor>
+	</revista>
+	<revista>
+		<id>79</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Sombras do Passado</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>80</id>
+		<titulo>Dark</titulo>
+		<subTitulo>O lado sombrio do Universo DC</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>81</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Zatanna... e... Constantine... contra o mal!</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>82</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Contra o domínio das trevas</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>83</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Constantine, O Matador de Vampiros!</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>84</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Unidos... na morte?!</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>85</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Até que a morte nos separe</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>8.99</valor>
+	</revista>
+	<revista>
+		<id>86</id>
+		<titulo>Dark</titulo>
+		<subTitulo>A ascensão dos Vampiros</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>87</id>
+		<titulo>Dark</titulo>
+		<subTitulo>O verdadeiro poder do Rei Gerreiro</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>88</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Novos Membros! Novas Ameaças!</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>89</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Contra os Van Helsing!</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>90</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Os Limites da Magia</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>91</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Mundo Podre: Prólogo</subTitulo>
+		<arco>Mundo Podre</arco>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>92</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Bem-vindo ao Mundo Podre</subTitulo>
+		<arco>Mundo Podre</arco>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>93</id>
+		<titulo>Dark</titulo>
+		<subTitulo>Os livros da magia... nas mãos do mal!</subTitulo>
+		<arco>Mundo Podre</arco>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>94</id>
+		<titulo>Dark</titulo>
+		<subTitulo>A Morte da Magia</subTitulo>
+		<arco>Mundo Podre</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>18.9</valor>
+	</revista>
+	<revista>
+		<id>95</id>
+		<titulo>Dark</titulo>
+		<subTitulo>A Última Investida</subTitulo>
+		<arco>Mundo Podre</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>96</id>
+		<titulo>Flash</titulo>
+		<subTitulo>A Origem Revelada</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>97</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Como um raio</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>98</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Arqueiro Verde marcado para morrer</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>99</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Velocidade terminal</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>100</id>
+		<titulo>Flash</titulo>
+		<subTitulo>A morte do Flash?</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>101</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Para salvar um amigo, muitos vão morrer!</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>102</id>
+		<titulo>Flash</titulo>
+		<subTitulo>A vingança do Capitão Frio</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>103</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Para deter o Frio...</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>104</id>
+		<titulo>Flash</titulo>
+		<subTitulo>A ameaça do misterioso Turbina</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>105</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Na cidade dos gorilas</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>106</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Flash contra o Mago do Tempo!</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>107</id>
+		<titulo>Flash</titulo>
+		<subTitulo>A ameaça do onda térmica!</subTitulo>
+		<arco></arco>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>108</id>
+		<titulo>Flash</titulo>
+		<subTitulo>Desafiado pela patinadora</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>109</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Quem é Arthur Curry?</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>110</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Grandes heróis em grandes aventuras</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>16.9</valor>
+	</revista>
+	<revista>
+		<id>111</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A morte vem das profundezas!</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>112</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Batalha pela superficie</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>113</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>O mistério do fosso revelado</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>114</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A ira de Poseidon</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>115</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A ameaça do Fantasma Fidalgo</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>116</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Apresentando: Os Outros</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>117</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A outra liga</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>118</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A estréia de Terra 2</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>119</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Vingança no Sangue</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>120</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Conheça o novo Lanterna Verde</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>121</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A vingança vem à tona</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>122</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Agora em nova fase: Flash</subTitulo>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>123</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Unidos pelo bem do planeta</subTitulo>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>124</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Novos Deuses</subTitulo>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>125</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Batalha na Força de Aceleração!</subTitulo>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>126</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Sombras da Noite</subTitulo>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>127</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Réquiem</subTitulo>
+		<arco>Réquiem</arco>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>128</id>
+		<titulo>Réquiem</titulo>
+		<subTitulo>A fúria... e a paixão?!</subTitulo>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>16.9</valor>
+	</revista>
+	<revista>
+		<id>129</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>A morte de um rei O Retorno dos Outros</subTitulo>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>130</id>
+		<titulo>Universo DC</titulo>
+		<subTitulo>Surge um novo Batman!</subTitulo>
+		<edicao>21</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>131</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Coruja</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>132</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Espectral</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>133</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Rorschach</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>134</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Dr. Manhattan</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>135</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Comediante</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>136</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Ozymandias</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>137</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Dollar Bill &amp; Moloch</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.9</valor>
+	</revista>
+	<revista>
+		<id>138</id>
+		<titulo>Antes de Watchmen</titulo>
+		<subTitulo>Minutemen</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>139</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Xamã</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>140</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Caos em Arkham City</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>22.9</valor>
+	</revista>
+	<revista>
+		<id>141</id>
+		<titulo>Monstro do Pântano</titulo>
+		<subTitulo>Raízes</subTitulo>
+		<arco>Clássicos DC</arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>19.9</valor>
+	</revista>
+	<revista>
+		<id>142</id>
+		<titulo>A Guerra dos Lanternas Verdes</titulo>
+		<subTitulo>Especial</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>143</id>
+		<titulo>Tropa dos Lanternas Vermelhos</titulo>
+		<subTitulo>As faces da fúria</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>144</id>
+		<titulo>Tropa dos Lanternas Vermelhos</titulo>
+		<subTitulo>Planeta da Ira</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>13.9</valor>
+	</revista>
+	<revista>
+		<id>145</id>
+		<titulo>Cavaleiros do Demônio</titulo>
+		<subTitulo>Batalha contra as Trevas</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>146</id>
+		<titulo>Cavaleiros do Demônio</titulo>
+		<subTitulo>A origem de todo o mal</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>13.9</valor>
+	</revista>
+	<revista>
+		<id>147</id>
+		<titulo>Cavaleiros do Demônio</titulo>
+		<subTitulo>O poder de Lúcifer</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>148</id>
+		<titulo>Grandes astros do Faroeste</titulo>
+		<subTitulo>Bem-vindo a Gotham Onde começa o Inferno</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>21.0</valor>
+	</revista>
+	<revista>
+		<id>149</id>
+		<titulo>Grandes astros do Faroeste</titulo>
+		<subTitulo>Conheça os Primórdios da Corte das Corujas</subTitulo>
+		<arco>A Corte das Corujas</arco>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.0</valor>
+	</revista>
+	<revista>
+		<id>150</id>
+		<titulo>Diablo 3</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>17.9</valor>
+	</revista>
+	<revista>
+		<id>151</id>
+		<titulo>Besouro Azul</titulo>
+		<subTitulo>A Metamorfose!</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>152</id>
+		<titulo>Super Choque</titulo>
+		<subTitulo>Alta tensão e aventuras eletrizantes!</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>16.9</valor>
+	</revista>
+	<revista>
+		<id>153</id>
+		<titulo>Legião Perdida</titulo>
+		<subTitulo>Fugindo do Amanhã</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>154</id>
+		<titulo>Legião dos Super-Heróis</titulo>
+		<subTitulo>Terra Hostil</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>155</id>
+		<titulo>Rapina e Columba</titulo>
+		<subTitulo>Guerra e Paz</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>22.9</valor>
+	</revista>
+	<revista>
+		<id>156</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Testemunhe a espetacular estréia e Shazam</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.99</valor>
+	</revista>
+	<revista>
+		<id>157</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O Futuro começa aqui!</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>158</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Três homens em conflito!</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>159</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O poder da Amazona!</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>160</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Surge o Soberano dos Mares</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>161</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Surge Darkseid!</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>162</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Ajoelhem-se diante de Darkseid!</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>163</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Deuses entre os Homens</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>164</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Surge o Arqueiro Verde!</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>165</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O início da jornada do vilão</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>166</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Liga da Justiça Internacional Derrotada!!</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>167</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Herói enfrentará Herói</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>168</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O Romance do Século</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>169</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O ataque da selvagem Mulher-Leopardo</subTitulo>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>170</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Começa aqui O Trono da Atlântida</subTitulo>
+		<arco>O Trono da Atlântida</arco>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>171</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>O perigo vem das profundezas</subTitulo>
+		<arco>O Trono da Atlântida</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>172</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>A concllusão de O Trono da Atlântida</subTitulo>
+		<arco>O Trono da Atlântida</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>173</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Estreia espetacular: Liga da Justiça da América</subTitulo>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>8.8</valor>
+	</revista>
+	<revista>
+		<id>174</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Quem está matando Superman?! Batman?!</subTitulo>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>8.8</valor>
+	</revista>
+	<revista>
+		<id>175</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Todos contra Desespero</subTitulo>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>9.9</valor>
+	</revista>
+	<revista>
+		<id>176</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>Vibro contra o Cavaleiro das Trevas?</subTitulo>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.8</valor>
+	</revista>
+	<revista>
+		<id>177</id>
+		<titulo>Liga da Justiça</titulo>
+		<subTitulo>A espetacular conclusão de Shazam!</subTitulo>
+		<edicao>21</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>9.9</valor>
+	</revista>
+	<revista>
+		<id>178</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Os limites do Universo DC</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>179</id>
+		<titulo>Edge</titulo>
+		<subTitulo>O fim do Mundo</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>180</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Batalha pela Sobrevivência da Terra!</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>181</id>
+		<titulo>Edge</titulo>
+		<subTitulo>O destino da Terra nas mãos de Apolo</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>182</id>
+		<titulo>Edge</titulo>
+		<subTitulo>A ira dos Demonitas!</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>183</id>
+		<titulo>Edge</titulo>
+		<subTitulo>A Terra ameaçada pelos Demonitas!</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>184</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Bandoleiro contra Meia-Noite!</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>185</id>
+		<titulo>Edge</titulo>
+		<subTitulo>A invasão dos Mineradores de Gravidade</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>186</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Contra a fúria dos Lanternas Vermelhos</subTitulo>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>187</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Sombras do Passado</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>188</id>
+		<titulo>Edge</titulo>
+		<subTitulo>A ascensão do Povo Oculto</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>189</id>
+		<titulo>Edge</titulo>
+		<subTitulo>Stormwatch vs Bandoleiro</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>190</id>
+		<titulo>Edge</titulo>
+		<subTitulo>A Aurora do Stormwatch</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>191</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Quem matou a família Wayne?</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>10.9</valor>
+	</revista>
+	<revista>
+		<id>192</id>
+		<titulo>Batman</titulo>
+		<subTitulo>O retorno do Cavaleiro das Trevas</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>193</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Alvo: Bruce Wayne</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>194</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A Corte Ataca!</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>195</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Mistério Secular</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>196</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Nas profundezas do Labirinto</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>197</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A mercê de Bane!</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>198</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A ameaça do Pinguim</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>199</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Ataque à Mansão Wayne</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>200</id>
+		<titulo>Batman</titulo>
+		<subTitulo>O avanço das criaturas da noite</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>9.8</valor>
+	</revista>
+	<revista>
+		<id>201</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A desforra do Anjo Negro</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>202</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A Inacreditável conclusão da Noite das Corujas</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>203</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Mesma guerra novos aliados!</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>204</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Ele voltou! Começa aqui Morte da Família</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>205</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Frente a frente com o palhaço do crime</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>206</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A beira da Loucura</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>207</id>
+		<titulo>Batman</titulo>
+		<subTitulo>A vitória da loucura</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>208</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Dança Macabra</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>209</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Réquiem</subTitulo>
+		<arco>Réquiem</arco>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>210</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Espetacular edição comemorativa! O que é o 900?</subTitulo>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>10.2</valor>
+	</revista>
+	<revista>
+		<id>211</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Reflexo Distorcido</subTitulo>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>212</id>
+		<titulo>Batman</titulo>
+		<subTitulo>Ano Zero</subTitulo>
+		<edicao>21</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.5</valor>
+	</revista>
+	<revista>
+		<id>213</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Descubra os primórdios do Universo do Homem-Morcego
+		</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>214</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>O Homem-Morcego e seus aliados na guerra contra o crime!
+		</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>215</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Amantes &amp; Inimigos</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>216</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Combate nas ruas de Gotham</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>217</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>A dupla dinâmica à mercê de Morgan!</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>218</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Um traidor na família</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>219</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>A revoada dos morcegos</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>220</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>O Esquadrão Morcego reunido</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>14.9</valor>
+	</revista>
+	<revista>
+		<id>221</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Batismo de fogo</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>8</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>222</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Acossados</subTitulo>
+		<arco>Noite das Corujas</arco>
+		<edicao>9</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>223</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Robins em Guerra!!! Quem vencerá?</subTitulo>
+		<edicao>10</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>224</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>As espetaculares aventuras da Batwoman</subTitulo>
+		<edicao>11</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>225</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Desafio Terminal</subTitulo>
+		<edicao>12</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>226</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Batgirl &amp; Mulher-Gato juntas contra a Garra!
+		</subTitulo>
+		<edicao>13</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>227</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>O ataque do Coringa</subTitulo>
+		<edicao>14</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>228</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>O matrimônio do ano!</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>15</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>229</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Como enlouquecer um Robin</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>16</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>230</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>O fim de Jason Todd?</subTitulo>
+		<arco>Morte da Família</arco>
+		<edicao>17</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>16.2</valor>
+	</revista>
+	<revista>
+		<id>231</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Réquiem</subTitulo>
+		<arco>Réquiem</arco>
+		<edicao>18</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>232</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>Guerra mitológica em Gotham!</subTitulo>
+		<edicao>19</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>16.2</valor>
+	</revista>
+	<revista>
+		<id>233</id>
+		<titulo>A Sombra do Batman</titulo>
+		<subTitulo>A nova parceira do Cavaleiro das Trevas?</subTitulo>
+		<edicao>20</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>234</id>
+		<titulo>Hulk</titulo>
+		<subTitulo>Futuro Imperfeito</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>19.9</valor>
+	</revista>
+	<revista>
+		<id>235</id>
+		<titulo>A Era de Ultron</titulo>
+		<subTitulo>Livro Um</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2014</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>236</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>Massacre de Mutantes</arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.5</valor>
+	</revista>
+	<revista>
+		<id>237</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Queda dos Mutantes</arco>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>238</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Queda dos Mutantes</arco>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>239</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Queda dos Mutantes</arco>
+		<edicao>3</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>29.9</valor>
+	</revista>
+	<revista>
+		<id>240</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>128</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>241</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Essência do Medo</arco>
+		<edicao>129</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>242</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>A Essência do Medo</arco>
+		<edicao>130</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>243</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>O Cisma</arco>
+		<edicao>131</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.9</valor>
+	</revista>
+	<revista>
+		<id>244</id>
+		<titulo>X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<arco>O Cisma</arco>
+		<edicao>132</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>6.5</valor>
+	</revista>
+	<revista>
+		<id>245</id>
+		<titulo>O Sensacional Homem-Aranha</titulo>
+		<subTitulo>Feroz!</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>246</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Começa aqui!</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>12.9</valor>
+	</revista>
+	<revista>
+		<id>247</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Round 1</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>8.2</valor>
+	</revista>
+	<revista>
+		<id>248</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Vingador vs. Vingador</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>249</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>8.2</valor>
+	</revista>
+	<revista>
+		<id>250</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Caça aos Vingadores!</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>251</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Resistência Heróica</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>7.2</valor>
+	</revista>
+	<revista>
+		<id>252</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>8.8</valor>
+	</revista>
+	<revista>
+		<id>253</id>
+		<titulo>Vingadores vs X-Men</titulo>
+		<subTitulo>Consequências</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>11.9</valor>
+	</revista>
+	<revista>
+		<id>254</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Prólogo - O Livro da Caveira</subTitulo>
+		<arco></arco>
+		<edicao>0</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>255</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Um</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>256</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Dois</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>257</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Três</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>258</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Quatro</subTitulo>
+		<edicao>4</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>259</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Cinco</subTitulo>
+		<edicao>5</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>260</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Seis</subTitulo>
+		<edicao>6</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.5</valor>
+	</revista>
+	<revista>
+		<id>261</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Sete</subTitulo>
+		<edicao>7</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>262</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Livro Oito</subTitulo>
+		<edicao>8</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>5.9</valor>
+	</revista>
+	<revista>
+		<id>263</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Especial</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>264</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Especial</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>15.9</valor>
+	</revista>
+	<revista>
+		<id>265</id>
+		<titulo>A Essência do Medo</titulo>
+		<subTitulo>Especial</subTitulo>
+		<edicao>3</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>16.5</valor>
+	</revista>
+	<revista>
+		<id>266</id>
+		<titulo>Sem Medo</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>22.9</valor>
+	</revista>
+	<revista>
+		<id>267</id>
+		<titulo>Sem Medo</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>21.9</valor>
+	</revista>
+	<revista>
+		<id>268</id>
+		<titulo>Wolverine</titulo>
+		<subTitulo>O melhor no que faz</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>17.9</valor>
+	</revista>
+	<revista>
+		<id>269</id>
+		<titulo>Wolverine</titulo>
+		<subTitulo>O melhor no que faz</subTitulo>
+		<edicao>2</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>19.9</valor>
+	</revista>
+	<revista>
+		<id>270</id>
+		<titulo>John Constatine - Hellblazer</titulo>
+		<subTitulo>A cidade dos demônios</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>18.9</valor>
+	</revista>
+	<revista>
+		<id>271</id>
+		<titulo>John Constatine - Hellblazer</titulo>
+		<subTitulo>A empatia é o inimigo</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>22.9</valor>
+	</revista>
+	<revista>
+		<id>272</id>
+		<titulo>Neonomicon</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>0</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>24.9</valor>
+	</revista>
+	<revista>
+		<id>273</id>
+		<titulo>Vampiro Americano</titulo>
+		<subTitulo>Seleção Natural</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>17.9</valor>
+	</revista>
+	<revista>
+		<id>274</id>
+		<titulo>Vampiro Americano</titulo>
+		<subTitulo>O Senhor do Pesadelo</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2013</anoPublicacao>
+		<valor>18.9</valor>
+	</revista>
+	<revista>
+		<id>275</id>
+		<titulo>V de Vingança</titulo>
+		<subTitulo>n/a</subTitulo>
+		<edicao>1</edicao>
+		<anoPublicacao>2012</anoPublicacao>
+		<valor>24.9</valor>
+	</revista>
+</revistas>
